@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JX_Extension_Example' do
+  pod 'JX_Extension', :path => '../'
+
+  target 'JX_Extension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
