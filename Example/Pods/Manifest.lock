@@ -1,0 +1,16 @@
+PODS:
+  - JX_Extension (0.1.0)
+
+DEPENDENCIES:
+  - JX_Extension (from `../`)
+
+EXTERNAL SOURCES:
+  JX_Extension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JX_Extension: 756c361e632a73db3a5cf8ae7e01cfb2bf1de724
+
+PODFILE CHECKSUM: 028b232428382f82bfb2e6c8b5c52fb31ff45b5a
+
+COCOAPODS: 1.2.0
